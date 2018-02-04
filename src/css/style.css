@@ -1,0 +1,44 @@
+p {
+        font-family:'Calibri', Arial, sans-serif;
+        font-size: 10px;
+        align:left;
+}
+body {
+  font-family: 'Calibri', Arial, sans-serif;
+  font-size: 10px;
+  align:left;
+}
+table {
+  font-family: 'Calibri', Arial, sans-serif;
+  font-size: 10px;
+  align:left;
+  border-collapse: collapse;
+  max-width: 2280px;
+  width:80%;
+  border: 1px solid #9E9E9E;
+}
+table caption {
+  font-size: 1.5em;
+}
+table tr {
+  font-family: 'Calibri', Arial, sans-serif;
+  font-size: 10px;
+  align:left;
+}
+table th,
+table td {
+  font-family: 'Calibri', Arial, sans-serif;
+  font-size: 10px;
+  align:left;
+  width: auto;
+  overflow: hidden;
+  word-wrap: break-word;
+  border: 1px solid #9E9E9E;
+}
+table th {
+  font-family: 'Calibri', Arial, sans-serif;
+  font-size: 10px;
+  align:left;
+  text-transform: uppercase;
+}
+
